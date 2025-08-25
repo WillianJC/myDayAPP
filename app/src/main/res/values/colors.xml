@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores azules oscuros para el tema -->
+    <color name="dark_blue_primary">#1565C0</color>
+    <color name="dark_blue_primary_variant">#0D47A1</color>
+    <color name="dark_blue_secondary">#1976D2</color>
+    <color name="dark_blue_secondary_variant">#1565C0</color>
+    <color name="dark_blue_background">#0A1628</color>
+    <color name="dark_blue_surface">#1A237E</color>
+    <color name="dark_blue_on_primary">#FFFFFF</color>
+    <color name="dark_blue_on_secondary">#FFFFFF</color>
+    <color name="dark_blue_on_background">#E3F2FD</color>
+    <color name="dark_blue_on_surface">#E3F2FD</color>
+</resources>
